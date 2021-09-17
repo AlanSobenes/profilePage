@@ -34,6 +34,7 @@
     border: 0px ;
     height: 35px;
     width: 100px;
+    font-size: large;
 }
 #flexbox{
     display: flex;
